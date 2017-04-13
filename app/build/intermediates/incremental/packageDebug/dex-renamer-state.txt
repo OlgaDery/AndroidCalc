@@ -1,0 +1,7 @@
+#Fri Mar 17 18:41:34 MDT 2017
+base.0=C\:\\Users\\Olga\\AndroidStudioProjects\\m8-assignment-calculator-skeleton\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_0bce4f726e82d806e780eecf44dab7b956fb829d
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=C\:\\Users\\Olga\\AndroidStudioProjects\\m8-assignment-calculator-skeleton\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_8a33436891aa32f35b17e7c88ae34bcd959990be\\classes.dex
+base.1=C\:\\Users\\Olga\\AndroidStudioProjects\\m8-assignment-calculator-skeleton\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_8a33436891aa32f35b17e7c88ae34bcd959990be
+file.0=C\:\\Users\\Olga\\AndroidStudioProjects\\m8-assignment-calculator-skeleton\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_0bce4f726e82d806e780eecf44dab7b956fb829d\\classes.dex
